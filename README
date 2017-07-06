@@ -1,6 +1,11 @@
-Sophus (version 0.9)
+Sophus (version dvo_slam compliant). Courtesy of H.Strasdat
 
 C++ implementation of Lie Groups using Eigen.
+
+## Note
+This Package is not up-to-date with Sophus by H.Strasdat.
+But it allows the dvo_slam suite compilation
+
 
 Thanks to Steven Lovegrove, Sophus is now fully templated  - using the Curiously Recurring Template Pattern (CRTP).
 
